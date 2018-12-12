@@ -11,7 +11,7 @@ install:
 
 script:
   - python 533_Lab3_test_addat.py
-  - python 533_Lab3_test_del.py
+  - python 533_Lab3_test_del(01).py
   - python 533_Lab3_test_dob.py
   - python 533_Lab3_test_qry.py
   
